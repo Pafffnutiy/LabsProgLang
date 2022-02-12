@@ -1,0 +1,11 @@
+﻿  moc Figure.h
+  Slider.cpp
+  EditDialog.cpp
+  Figure.cpp
+  lab4.cpp
+  main.cpp
+  moc_EditDialog.cpp
+  moc_Figure.cpp
+  moc_Slider.cpp
+  moc_lab4.cpp
+  lab4.vcxproj -> D:\ПАША\C++ projects\Лабы по ЯПам\Лаба 4\lab4\x64\Release\lab4.exe
