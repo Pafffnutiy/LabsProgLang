@@ -1,0 +1,4 @@
+for(const auto& elem:vec)
+
+_Thread_local
+
